@@ -14,7 +14,7 @@
 
 ## My Result of PyBank Task
 
-![Py_Bank_Result](Images/PyBank_Result.PNG)
+![Py_Bank_Result](Images/PayBank_Result.PNG)
 
 # PyPoll Challenge
 
